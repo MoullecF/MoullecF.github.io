@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-[Link to Curriculum Vitae](./CV.md).
+[Link to Curriculum Vitae](./CV.html).
